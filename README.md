@@ -56,4 +56,4 @@ Dessa forma, a combinação entre desenvolvimento assistido por IA e automação
 
 Foi configurado um pipeline de Integração Contínua com GitHub Actions, responsável por executar automaticamente os testes unitários a cada push ou pull request, garantindo feedback rápido e redução de falhas introduzidas no código.
 
-![CI](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/python-tests.yml/badge.svg)
+![CI](https://github.com/CKOArquiteto/AI-driven-Software/actions/workflows/python-tests.yml/badge.svg)
