@@ -1,0 +1,15 @@
+{
+  "itens": [
+    {
+      "nome": "Pizza",
+      "quantidade": 2,
+      "preco_unitario": 35.0
+    },
+    {
+      "nome": "Refrigerante",
+      "quantidade": 2,
+      "preco_unitario": 8.0
+    }
+  ],
+  "tipo_entrega": "normal"
+}
